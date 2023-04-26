@@ -10,6 +10,12 @@ require 'db_conn.php';
     <title>To-Do List</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+<style>
+    body {
+    background: black;
+  }
+  
+</style>
 <body>
     <div class="main-section">
        <div class="add-section">
